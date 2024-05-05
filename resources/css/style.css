@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #FFB1B1;
+}
+body {
+    height: 100vh;
+}
+.dataku .card ul li{
+    list-style: none;
+}
+
+.index-barang .btn-tambah {
+    background-color: #FF9843;
+    color: white;
+}
+.dataku .container{
+    background-color: #FFB1B1;
+}
